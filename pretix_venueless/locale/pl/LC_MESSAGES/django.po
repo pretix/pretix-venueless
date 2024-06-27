@@ -8,83 +8,92 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 22:19+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-06-27 19:00+0000\n"
+"Last-Translator: Anarion Dunedain <anarion80@gmail.com>\n"
+"Language-Team: Polish <https://translate.pretix.eu/projects/pretix/"
+"pretix-plugin-venueless/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.6.1\n"
 
 #: pretix_venueless/__init__.py:16
 #: pretix_venueless/templates/pretix_venueless/settings.html:5
 #: pretix_venueless/views.py:178
 msgid "Venueless"
-msgstr ""
+msgstr "Venueless"
 
 #: pretix_venueless/__init__.py:18
 msgid "Grant access to your venueless event to your customers."
-msgstr ""
+msgstr "Przyznaj swoim klientom dostęp do wydarzenia bez miejsca."
 
 #: pretix_venueless/templates/pretix_venueless/order_info.html:8
 #: pretix_venueless/templates/pretix_venueless/order_info.html:41
 msgid "Join online event"
-msgstr ""
+msgstr "Dołącz do wydarzenia online"
 
 #: pretix_venueless/templates/pretix_venueless/order_info.html:30
 msgid "You can now join the event using the following button:"
-msgstr ""
+msgstr "Możesz teraz dołączyć do wydarzenia za pomocą poniższego przycisku:"
 
 #: pretix_venueless/templates/pretix_venueless/order_info.html:49
 msgid ""
 "You will be able to join this event with your browser right here when it "
 "starts."
 msgstr ""
+"Tutaj będziesz mógł dołączyć do tego wydarzenia za pomocą przeglądarki, gdy "
+"się ono rozpocznie."
 
 #: pretix_venueless/templates/pretix_venueless/settings.html:12
 msgid "Save"
-msgstr ""
+msgstr "Zapisz"
 
 #: pretix_venueless/views.py:27
 msgid "Venueless URL"
-msgstr ""
+msgstr "Adres URL Venueless"
 
 #: pretix_venueless/views.py:31
 msgid "Venueless secret"
-msgstr ""
+msgstr "Sekret Venueless"
 
 #: pretix_venueless/views.py:35
 msgid "Venueless issuer"
-msgstr ""
+msgstr "Wydawca Venueless"
 
 #: pretix_venueless/views.py:39
 msgid "Venueless audience"
-msgstr ""
+msgstr "Odbiorcy Venueless"
 
 #: pretix_venueless/views.py:43
 msgid "Do not allow access before"
-msgstr ""
+msgstr "Nie zezwalaj na dostęp przed"
 
 #: pretix_venueless/views.py:47
 msgid "Allow users to access the live event before their order is paid"
 msgstr ""
+"Pozwól użytkownikom na dostęp do wydarzenia na żywo przed opłaceniem "
+"zamówienia."
 
 #: pretix_venueless/views.py:51
 msgid "Allow buyers of all admission products"
-msgstr ""
+msgstr "Wpuść kupujących wszystkie produktów wstępu"
 
 #: pretix_venueless/views.py:61
 msgid "Limit to products"
-msgstr ""
+msgstr "Ogranicz do produktów"
 
 #: pretix_venueless/views.py:72
 msgid "Transmit answers to questions"
-msgstr ""
+msgstr "Prześlij odpowiedzi na pytania"
 
 #: pretix_venueless/views.py:78
 msgid "Introductory text"
-msgstr ""
+msgstr "Tekst wstępu"
 
 #: pretix_venueless/views.py:118
 msgid "Unknown order code or not authorized to access this order."
 msgstr ""
+"Nieznany kod zamówienia lub brak autoryzacji dostępu do tego zamówienia."

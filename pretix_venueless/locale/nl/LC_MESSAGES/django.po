@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-17 13:21+0200\n"
-"PO-Revision-Date: 2021-10-24 19:00+0000\n"
-"Last-Translator: Maarten van den Berg <maartenberg1@gmail.com>\n"
+"PO-Revision-Date: 2024-11-07 03:00+0000\n"
+"Last-Translator: Christiaan de Die le Clercq <contact@techwolf12.nl>\n"
 "Language-Team: Dutch <https://translate.pretix.eu/projects/pretix/"
 "pretix-plugin-venueless/nl/>\n"
 "Language: nl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: pretix_venueless/__init__.py:16
 msgid "Venueless integration"
@@ -83,7 +83,7 @@ msgstr "Laat kopers van alle toegangsbewijzen toe"
 
 #: pretix_venueless/views.py:61
 msgid "Limit to products"
-msgstr "Beperk tot producten"
+msgstr "Tot producten limiteren"
 
 #: pretix_venueless/views.py:72
 msgid "Transmit answers to questions"
@@ -95,4 +95,4 @@ msgstr "Introductietekst"
 
 #: pretix_venueless/views.py:118
 msgid "Unknown order code or not authorized to access this order."
-msgstr "Onbekende bestelcode of niet gemachtigd om deze bestelling te bekijken."
+msgstr "Ongeldig bestelnummer of geen toegang tot deze bestelling."

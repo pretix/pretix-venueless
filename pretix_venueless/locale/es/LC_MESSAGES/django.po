@@ -8,83 +8,88 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 22:19+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-11-27 04:00+0000\n"
+"Last-Translator: CVZ-es <damien.bremont@casadevelazquez.org>\n"
+"Language-Team: Spanish <https://translate.pretix.eu/projects/pretix/"
+"pretix-plugin-venueless/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.8.3\n"
 
 #: pretix_venueless/__init__.py:16
 #: pretix_venueless/templates/pretix_venueless/settings.html:5
 #: pretix_venueless/views.py:178
 msgid "Venueless"
-msgstr ""
+msgstr "Venueless"
 
 #: pretix_venueless/__init__.py:18
 msgid "Grant access to your venueless event to your customers."
-msgstr ""
+msgstr "Concede acceso a su evento venueless a sus clientes."
 
 #: pretix_venueless/templates/pretix_venueless/order_info.html:8
 #: pretix_venueless/templates/pretix_venueless/order_info.html:41
 msgid "Join online event"
-msgstr ""
+msgstr "Unirse al evento en línea"
 
 #: pretix_venueless/templates/pretix_venueless/order_info.html:30
 msgid "You can now join the event using the following button:"
-msgstr ""
+msgstr "Ahora puede participar al evento con el siguiente botón:"
 
 #: pretix_venueless/templates/pretix_venueless/order_info.html:49
 msgid ""
 "You will be able to join this event with your browser right here when it "
 "starts."
-msgstr ""
+msgstr "Podrá unirse al evento con su navegador aquí mismo cuando empiece."
 
 #: pretix_venueless/templates/pretix_venueless/settings.html:12
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: pretix_venueless/views.py:27
 msgid "Venueless URL"
-msgstr ""
+msgstr "URL Venueless"
 
 #: pretix_venueless/views.py:31
 msgid "Venueless secret"
-msgstr ""
+msgstr "Secreto Venueless"
 
 #: pretix_venueless/views.py:35
 msgid "Venueless issuer"
-msgstr ""
+msgstr "Emisor Venueless"
 
 #: pretix_venueless/views.py:39
 msgid "Venueless audience"
-msgstr ""
+msgstr "Audiencia Venueless"
 
 #: pretix_venueless/views.py:43
 msgid "Do not allow access before"
-msgstr ""
+msgstr "No permitir el acceso antes del"
 
 #: pretix_venueless/views.py:47
 msgid "Allow users to access the live event before their order is paid"
 msgstr ""
+"Permitir a los usuarios acceder al evento en directo antes de pagar su pedido"
 
 #: pretix_venueless/views.py:51
 msgid "Allow buyers of all admission products"
-msgstr ""
+msgstr "Permitir a los compradores de todos los productos de entrada"
 
 #: pretix_venueless/views.py:61
 msgid "Limit to products"
-msgstr ""
+msgstr "Límite a los productos"
 
 #: pretix_venueless/views.py:72
 msgid "Transmit answers to questions"
-msgstr ""
+msgstr "Transmitir respuestas a preguntas"
 
 #: pretix_venueless/views.py:78
 msgid "Introductory text"
-msgstr ""
+msgstr "Texto de introducción"
 
 #: pretix_venueless/views.py:118
 msgid "Unknown order code or not authorized to access this order."
 msgstr ""
+"Código de pedido desconocido o no autorizado para acceder a este pedido."

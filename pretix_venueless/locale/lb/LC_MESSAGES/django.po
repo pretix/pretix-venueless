@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 22:19+0100\n"
-"PO-Revision-Date: 2025-10-27 23:00+0000\n"
+"PO-Revision-Date: 2025-10-28 18:00+0000\n"
 "Last-Translator: Sven Muhlen <sven.muhlen@bnl.etat.lu>\n"
 "Language-Team: Luxembourgish <https://translate.pretix.eu/projects/pretix/"
 "pretix-plugin-venueless/lb/>\n"
@@ -86,7 +86,7 @@ msgstr ""
 
 #: pretix_venueless/views.py:78
 msgid "Introductory text"
-msgstr ""
+msgstr "Introduktiounstext"
 
 #: pretix_venueless/views.py:118
 msgid "Unknown order code or not authorized to access this order."

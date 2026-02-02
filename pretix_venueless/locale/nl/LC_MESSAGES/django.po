@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-17 13:21+0200\n"
-"PO-Revision-Date: 2024-11-07 03:00+0000\n"
-"Last-Translator: Christiaan de Die le Clercq <contact@techwolf12.nl>\n"
-"Language-Team: Dutch <https://translate.pretix.eu/projects/pretix/"
-"pretix-plugin-venueless/nl/>\n"
+"PO-Revision-Date: 2026-02-02 20:00+0000\n"
+"Last-Translator: Ruud Hendrickx <ruud@leckxicon.eu>\n"
+"Language-Team: Dutch <https://translate.pretix.eu/projects/pretix/pretix-"
+"plugin-venueless/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #: pretix_venueless/__init__.py:16
 msgid "Venueless integration"
@@ -30,11 +30,11 @@ msgstr "Integreert pretix met venueless.org"
 #: pretix_venueless/templates/pretix_venueless/order_info.html:8
 #: pretix_venueless/templates/pretix_venueless/order_info.html:41
 msgid "Join online event"
-msgstr "Online evenement openen"
+msgstr "Deelnemen aan online evenement"
 
 #: pretix_venueless/templates/pretix_venueless/order_info.html:30
 msgid "You can now join the event using the following button:"
-msgstr "U kunt het evenement nu openen via de volgende knop:"
+msgstr "U kunt u nu aanmelden voor het evenement via de volgende knop:"
 
 #: pretix_venueless/templates/pretix_venueless/order_info.html:49
 msgid ""
@@ -74,8 +74,8 @@ msgstr "Toegang niet toestaan voor"
 #: pretix_venueless/views.py:47
 msgid "Allow users to access the live event before their order is paid"
 msgstr ""
-"Sta gebruikers toe het live-evenement te openen voor hun bestelling is "
-"betaald"
+"Geef gebruikers toegang tot het live-evenement voordat hun bestelling "
+"betaald is"
 
 #: pretix_venueless/views.py:51
 msgid "Allow buyers of all admission products"
@@ -83,7 +83,7 @@ msgstr "Laat kopers van alle toegangsbewijzen toe"
 
 #: pretix_venueless/views.py:61
 msgid "Limit to products"
-msgstr "Tot producten limiteren"
+msgstr "Beperken tot producten"
 
 #: pretix_venueless/views.py:72
 msgid "Transmit answers to questions"

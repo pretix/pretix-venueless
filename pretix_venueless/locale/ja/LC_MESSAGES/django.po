@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-17 13:21+0200\n"
-"PO-Revision-Date: 2024-12-27 22:00+0000\n"
+"PO-Revision-Date: 2026-02-23 10:00+0000\n"
 "Last-Translator: Hijiri Umemoto <hijiri@umemoto.org>\n"
-"Language-Team: Japanese <https://translate.pretix.eu/projects/pretix/"
-"pretix-plugin-venueless/ja/>\n"
+"Language-Team: Japanese <https://translate.pretix.eu/projects/pretix/pretix-"
+"plugin-venueless/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.16\n"
 
 #: pretix_venueless/__init__.py:16
 msgid "Venueless integration"
@@ -49,7 +49,7 @@ msgstr "Venueless"
 
 #: pretix_venueless/templates/pretix_venueless/settings.html:12
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: pretix_venueless/views.py:27
 msgid "Venueless URL"
@@ -89,8 +89,8 @@ msgstr "質問に対して回答を送信する"
 
 #: pretix_venueless/views.py:78
 msgid "Introductory text"
-msgstr ""
+msgstr "紹介文"
 
 #: pretix_venueless/views.py:118
 msgid "Unknown order code or not authorized to access this order."
-msgstr ""
+msgstr "不明な注文コード、またはこの注文に対する許可されていないアクセス。"

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-17 13:21+0200\n"
-"PO-Revision-Date: 2026-02-23 10:00+0000\n"
+"PO-Revision-Date: 2026-03-09 14:00+0000\n"
 "Last-Translator: Hijiri Umemoto <hijiri@umemoto.org>\n"
 "Language-Team: Japanese <https://translate.pretix.eu/projects/pretix/pretix-"
 "plugin-venueless/ja/>\n"
@@ -17,15 +17,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #: pretix_venueless/__init__.py:16
 msgid "Venueless integration"
-msgstr ""
+msgstr "Venuelessの統合"
 
 #: pretix_venueless/__init__.py:18
 msgid "Integrates pretix with venueless.org"
-msgstr ""
+msgstr "pretixをvenueless.orgに統合する"
 
 #: pretix_venueless/templates/pretix_venueless/order_info.html:8
 #: pretix_venueless/templates/pretix_venueless/order_info.html:41
